@@ -1,0 +1,12 @@
+/bitrix/ 
+/bitrix 
+/upload/ 
+/upload 
+/local/
+/local/vendor/
+/web.config 
+/.htaccess 
+/robots.txt 
+/*.xml 
+*.swp 
+*.log

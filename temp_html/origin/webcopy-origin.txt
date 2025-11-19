@@ -1,0 +1,576 @@
+Uri: https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\html.themewant.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\html.themewant.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZP_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZP_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZT_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZT_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5P_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5P_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5L_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5L_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5P_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5P_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_rA.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\albertsans\v4\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_rA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0SkdmPg.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UafrEtFpBISdmSt-MY2ehbO95t0SkdmPg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwM.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwM.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwM.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwM.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwM.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3CwM.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3CwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwM.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s\exo\v25\4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwM.ttf
+Content Type: font/ttf
+
+Uri: https://html.themewant.com/solari/aboutus.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\aboutus.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/appoinment.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\appoinment.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/assets/css/plugins/fontawesome-6.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\plugins\fontawesome-6.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/css/plugins/metismenu.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\plugins\metismenu.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/css/plugins/swiper.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\plugins\swiper.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/css/plugins/unicons.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\plugins\unicons.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/css/style.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\style.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/css/vendor/animate.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\vendor\animate.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/css/vendor/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\vendor\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/css/vendor/magnific-popup.css
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\css\vendor\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/solari/assets/images/about/04.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/about/05.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/about/06.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\06.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/about/19.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\19.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/about/20.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\20.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/about/21.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\21.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/about/22.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\22.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/about/28.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\28.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/about/30.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\30.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/about/dt.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\about\dt.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/appoinment/02.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\appoinment\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/07.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\07.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/banner/08.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\08.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/13.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/14.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\14.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/15.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\15.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/16.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\16.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/17.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\17.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/18.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\18.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/19.webp
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\19.webp
+Content Type: image/webp
+
+Uri: https://html.themewant.com/solari/assets/images/banner/active.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\active.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/banner/breadcrumb/01.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\breadcrumb\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/banner/shape/01.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\shape\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/banner/shape/03.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\shape\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/banner/shape/cleaning-bottom.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\shape\cleaning-bottom.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/banner/shape/close.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\banner\shape\close.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/cta/01.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\cta\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/cta/05.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\cta\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/cta/06.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\cta\06.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/cta/08.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\cta\08.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/cta/09.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\cta\09.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/faq/04.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\faq\04.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/faq/05.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\faq\05.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/fav.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\fav.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/footer/01.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\footer\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/footer/02.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\footer\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/footer/03.svg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\footer\03.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/solari/assets/images/logo/logo-01.svg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\logo\logo-01.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/solari/assets/images/project/12.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\project\12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/project/24.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\project\24.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/project/25.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\project\25.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/project/26.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\project\26.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/project/27.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\project\27.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/project/shape/03.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\project\shape\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/11.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/service/12.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/service/15.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\15.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/service/16.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\16.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/service/17.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\17.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/service/18.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\18.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/service/19.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\19.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/20.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\20.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/26.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\26.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/27.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\27.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/28.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\28.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/29.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\29.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/30.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\30.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/31.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\31.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/service/bg.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\service\bg.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/shop/shop-01.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\shop\shop-01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/shop/shop-02.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\shop\shop-02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/shop/shop-03.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\shop\shop-03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/solution/03.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\solution\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/steps/01.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\steps\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/steps/02.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\steps\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/steps/03.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\steps\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/team/17.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\team\17.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/team/18.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\team\18.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/team/19.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\team\19.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/team/20.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\team\20.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/testimonials/01.jpg
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\testimonials\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/solari/assets/images/testimonials/07.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\testimonials\07.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/testimonials/08.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\testimonials\08.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/assets/images/working-process/01.png
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\assets\images\working-process\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/solari/blog-details.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\blog-details.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/blog.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\blog.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/cart.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\cart.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/checkout.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\checkout.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/contact.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\contact.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/faq.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\faq.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/gallery.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\gallery.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/index-eight.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-eight.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/index-five.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-five.html
+Content Type: 
+
+Uri: https://html.themewant.com/solari/index-four.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-four.html
+Content Type: 
+
+Uri: https://html.themewant.com/solari/index-nine.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-nine.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/index-seven.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-seven.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/index-six.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-six.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/index-three.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-three.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/index-two.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index-two.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/index.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\index.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/one-page-five.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\one-page-five.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/one-page-four.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\one-page-four.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/one-page-one.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\one-page-one.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/one-page-three.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\one-page-three.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/one-page-two.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\one-page-two.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-col-2.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-col-2.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-details-carousel.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-details-carousel.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-details-gallery.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-details-gallery.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-details-vedio.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-details-vedio.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-details.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-details.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-overflow.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-overflow.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-swiper-full.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-swiper-full.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project-swiper-sm.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project-swiper-sm.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/project.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\project.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/service-details.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\service-details.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/service.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\service.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/shop-single.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\shop-single.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/shop.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\shop.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/team-details.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\team-details.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/solari/team.html
+File Name: C:\Downloaded Web Sites\html.themewant.com\solari\team.html
+Content Type: text/html
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.eot
+File Name: C:\Downloaded Web Sites\html.themewant.com\s.cdpn.io\1462889\unicons.eot
+Content Type: 
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.svg
+File Name: C:\Downloaded Web Sites\html.themewant.com\s.cdpn.io\1462889\unicons.svg
+Content Type: image/svg+xml
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.ttf
+File Name: C:\Downloaded Web Sites\html.themewant.com\s.cdpn.io\1462889\unicons.ttf
+Content Type: font/ttf
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.woff
+File Name: C:\Downloaded Web Sites\html.themewant.com\s.cdpn.io\1462889\unicons.woff
+Content Type: font/woff
+
+Uri: https://s3-us-west-2.amazonaws.com/s.cdpn.io/1462889/unicons.woff2
+File Name: C:\Downloaded Web Sites\html.themewant.com\s.cdpn.io\1462889\unicons.woff2
+Content Type: font/woff
+
